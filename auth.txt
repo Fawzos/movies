@@ -1,0 +1,2 @@
+clinetID: 825200304704-950ctbcvigv3pvpun64fqcfbqpo0us9r.apps.googleusercontent.com
+clientSecret: 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
